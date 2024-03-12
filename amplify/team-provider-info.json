@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "reactgraph7c3367da": {}
+      },
+      "api": {
+        "reactgraph": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
